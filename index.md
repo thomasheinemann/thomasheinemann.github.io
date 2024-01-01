@@ -2,23 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[//]: <> Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[//]: <> There should be whitespace between paragraphs.
 
-# Header 1
+[//]: <> There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Links
 
-## Header 2
+[My LinkedIn page](https://www.linkedin.com/in/thomasheinemann/)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+
+[//]: <> > This is a blockquote following a header.
+[//]: <> >
+[//]: <> > When something is important enough, you do it even if the odds are not in your favor.
+
+
+### CV
+
+| date(s)        | activity          |
+|:-------------|:------------------|
+| 08/2011           | diploma in physics (TU Berlin) |
+| 04/2016 | PhD in natural sciences (TU Berlin)  |
+| 09/2016 - 05/2017           | postdoc at SNU (chemistry department) in Seoul (Korea)      |
+| 11/2017 - 01/2018           | external researcher at Biomedical Research Foundation at the Academy of Athens  |
+| 11/2018 - today           | system analyst in the IT department at vdek e.V. |
+
+
 
 ### Header 3
 
