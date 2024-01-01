@@ -31,7 +31,7 @@ layout: default
 | 11/2017 - 01/2018           | external researcher at Biomedical Research Foundation at the Academy of Athens  |
 | 11/2018 - today           | system analyst in the IT department at vdek e.V. |
 
-
+<!---
 
 ### Header 3
 
@@ -134,3 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
