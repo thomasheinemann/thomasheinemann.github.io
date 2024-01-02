@@ -13,7 +13,9 @@ layout: default
 ### Links
 
 [My LinkedIn page](https://www.linkedin.com/in/thomasheinemann/)
-
+{% if site.github.is_user_page %}
+<p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+{% endif %}
 
 
 [//]: <> > This is a blockquote following a header.
