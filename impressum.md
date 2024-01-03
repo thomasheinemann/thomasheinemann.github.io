@@ -6,10 +6,10 @@ layout: default
 <p>
 Verantwortlich für den Inhalt dieser Seiten
 
-Thomas Heinemann
-Klausenerstraße 49
-D-39112 Magdeburg
-Fax: 0049 391 6 23 02 83
+Thomas Heinemann<br>
+Klausenerstraße 49<br>
+D-39112 Magdeburg<br>
+Fax: +49(0)391/6230283<br>
 thomas.heinemann@gmail.com
 </p>
 [back](./)
