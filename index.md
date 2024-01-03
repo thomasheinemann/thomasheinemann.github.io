@@ -25,13 +25,12 @@ layout: default
 
 ### CV
 
-| date(s)        | activity          |
+| Date(s)        | Activity          |
 |:-------------|:------------------|
-| 08/2011           | diploma in physics (TU Berlin) |
-| 04/2016 | PhD in natural sciences (TU Berlin)  |
-| 09/2016 - 05/2017           | postdoc at SNU (chemistry department) in Seoul (Korea)      |
-| 11/2017 - 01/2018           | external researcher at Biomedical Research Foundation at the Academy of Athens  |
-| 11/2018 - today           | system analyst in the IT department at vdek e.V. |
+| 08/2011           | Diploma in Physics (TU Berlin) |
+| 04/2016 | Doctor of Natural Sciences (TU Berlin)  |
+| 09/2016 - 12/2017           | Postdoc / Researcher at Seoul National University and at the Academy of Athens     |
+| 11/2018 - today           | System Analyst in the IT department at vdek e.V. |
 
 
 
