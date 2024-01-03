@@ -20,12 +20,13 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
           <p>Photo by E. Heinemann</header</p>
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
         <br>
         <p><h3><a href="contact.html">Contact</a></h3></p>
         <p><h3><a href="impressum.html">Site notice (Impressum)</a></h3></p>
+        {% endif %}
+
+        
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
