@@ -5,7 +5,8 @@ layout: default
 ## Site notice (Impressum)
 <p>
 Verantwortlich für den Inhalt dieser Seiten
-
+<br>
+<br>
 Thomas Heinemann<br>
 Klausenerstraße 49<br>
 D-39112 Magdeburg<br>
