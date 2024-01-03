@@ -36,7 +36,7 @@ layout: default
 
 
 
-#### <a href="impressum.html">Site notice (Impressum)</a>
+
 <!---
 
 ### Header 3
