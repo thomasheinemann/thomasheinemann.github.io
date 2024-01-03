@@ -36,7 +36,7 @@ layout: default
 
 
 
-#### <a href="another-page.html">My GitHub page</a>
+#### <a href="impressum.html">Impressum</a>
 <!---
 
 ### Header 3
