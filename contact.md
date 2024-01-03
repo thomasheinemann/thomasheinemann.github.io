@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Site notice (Impressum)
+## Contact
 <p>
 <br>
 Thomas Heinemann<br>
