@@ -30,7 +30,7 @@ layout: default
 | 2011              | Diploma in Physics (TU Berlin) |
 | 2016              | Doctor of Natural Sciences (TU Berlin)  |
 | 2016 - 2017       | Postdoc / Researcher at Seoul National University and Academy of Athens     |
-| 2018 - today      | System Analyst in the IT department at vdek e.V. |
+| 2018 - today      | Systems Analyst in the IT department at vdek e.V. |
 
 
 
